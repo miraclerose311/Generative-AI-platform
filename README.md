@@ -28,7 +28,6 @@ There are tons of personal computers and homelabs out there with lots of compute
 - [ ] split relay/server python dependencies to reduce installation toil for relay-only nodes
 - [ ] API v1 with at least 10 models supported and available
 - [ ] landing page chat UI integrated with API v1
-- [ ] [https://github.com/democratizedspace/dspace](DSPACE) (first 1st party integration) uses API v1 for dChat
 - [ ] set up production server (raspberry pi cluster lol)
 - [ ] allow participation from other server.pys
 
